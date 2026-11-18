@@ -1,5 +1,12 @@
 HELP.md
 target/
+uploads/*
+!uploads/.gitkeep
+hs_err_pid*.log
+replay_pid*.log
+*.hprof
+*.tmp
+
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
